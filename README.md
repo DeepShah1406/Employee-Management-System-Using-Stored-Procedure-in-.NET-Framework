@@ -1,5 +1,7 @@
 # ***Employee Management System Using Stored Procedure in .NET Framework***
 
+Employee Management System (EMS) using ASP.NET and C#. The systemutilizes stored procedures in the SQL Server database for efficient CRUD (Create, Read, Update, Delete)operations on employee records.
+
 ## Overview
 
 The Employee Management System is a web-based application built using ASP.NET and C# that allows organizations to efficiently manage employee data. Leveraging stored procedures, this system enables seamless Create, Read, Update, and Delete (CRUD) operations on employee records. Whether you’re a small business or a large enterprise, this system provides a robust solution for maintaining employee information.
